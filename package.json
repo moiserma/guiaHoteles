@@ -1,0 +1,16 @@
+{
+  "name": "test-git",
+  "version": "1.0.0",
+  "description": "Inicio del proyecto de guía de hoteles. Prueba test-git.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://moiserma@bitbucket.org/moiserma/test-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/moiserma/test-git#readme"
+}
