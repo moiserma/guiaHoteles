@@ -1,16 +1,21 @@
 {
   "name": "test-git",
   "version": "1.0.0",
-  "description": "Inicio del proyecto de guía de hoteles. Prueba test-git.",
-  "main": "index.js",
+  "description": "Nuestro primer proyecto de Node.js.",
+  "main": "index.html",
   "scripts": {
+    "dev": "lite-server", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://moiserma@bitbucket.org/moiserma/test-git.git"
   },
-  "author": "",
+  "author": "Moises Serrano Marin",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/moiserma/test-git#readme"
+  "homepage": "https://bitbucket.org/moiserma/test-git#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
+
