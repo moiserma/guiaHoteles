@@ -1,4 +1,4 @@
-; /* Se recomienda los scrips escritos por nosotros referenciarlos y colocarlos en una carpeta Js */
+/* Se recomienda los scrips escritos por nosotros referenciarlos y colocarlos en una carpeta Js */
 $(function(){
     $("[data-toggle='tooltip']").tooltip();
     $("[data-toggle='popover']").popover();
